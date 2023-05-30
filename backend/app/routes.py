@@ -3,6 +3,7 @@ from . import app
 from . import data
 
 data.get_data()
+host='0.0.0.0'
 
 
 @app.route("/")
