@@ -31,7 +31,6 @@ requests==2.29.0
 sip==6.7.6
 six==1.16.0
 sodapy==2.2.0
-TBB==0.2
 toml==0.10.2
 tzdata==2023.3
 urllib3==1.26.15
