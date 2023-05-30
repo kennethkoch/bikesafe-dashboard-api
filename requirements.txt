@@ -12,7 +12,6 @@ Jinja2==3.1.2
 MarkupSafe==2.1.2
 mypy-extensions==1.0.0
 numpy==1.24.3
-packaging @ file:///private/tmp/sip--packaging-20230128-6145-q8bnid/packaging-23.0
 pandas==2.0.1
 pathspec==0.11.0
 platformdirs==3.0.0
