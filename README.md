@@ -1,8 +1,8 @@
 # NYC Open Data API - Cyclist and Pedestrian Accidents
-[Click here]('https://bike-safe-dashboard.vercel.app/') to view a React dashboard I built using this data  
+[Click here](https://bike-safe-dashboard.vercel.app/) to view a React dashboard I built using this data  
 This repository contains an API built using NYC Open Data to provide information about cyclist and pedestrian accidents in New York City.
 
-The data is sourced from the [NYC Open Data]('https://opendata.cityofnewyork.us/') platform, which provides publicly available datasets related to various aspects of New York City.
+The data is sourced from the [NYC Open Data](https://opendata.cityofnewyork.us/) platform, which provides publicly available datasets related to various aspects of New York City.
 
 ## Features
 
