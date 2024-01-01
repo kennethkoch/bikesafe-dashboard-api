@@ -82,11 +82,11 @@ today = datetime.today()
 date_cutoff = (today - timedelta(days=365)).strftime("%Y-%m-%d")
 
 this_year_df = results_df[
-    (results_df["crash_date"] >= "2023-01-01")
+    (results_df["crash_date"] >= "2024-01-01")
     & (results_df["crash_date"] < today.strftime("%Y-%m-%d"))
 ]
 last_year_df = results_df[
-    (results_df["crash_date"] >= "2022-01-01")
+    (results_df["crash_date"] >= "2023-01-01")
     & (results_df["crash_date"] < date_cutoff)
 ]
 
